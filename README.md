@@ -1,2 +1,2 @@
-# Python-Expert-Calculus-Projects
-This repository consists of Python Projects for expert level
+# Python-Calculus-Expert-Projects
+This repository consists of Python Projects for expert level.
